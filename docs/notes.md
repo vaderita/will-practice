@@ -5,4 +5,5 @@
 - Favorite color: blue
 - Team lunch: Friday
 - Work more
+- Sleep more
 - Dream more
