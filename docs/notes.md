@@ -6,3 +6,4 @@
 - Team lunch: Friday
 - Work more
 - Sleep more
+- Dream more
