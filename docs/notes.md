@@ -4,3 +4,4 @@
 - Write a commit message that explains *why*, not just *what*.
 - Favorite color: blue
 - Team lunch: Friday
+- Work more
