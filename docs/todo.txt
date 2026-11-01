@@ -1,0 +1,4 @@
+[ ] Add tests for calculator
+[ ] Write documentation for utils.js
+[x] Set up repository
+[ ] Review pull request #1
